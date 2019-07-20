@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Potato.iml" filepath="$PROJECT_DIR$/Potato.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/potatolib/potatolib.iml" filepath="$PROJECT_DIR$/potatolib/potatolib.iml" />
     </modules>
   </component>
 </project>
